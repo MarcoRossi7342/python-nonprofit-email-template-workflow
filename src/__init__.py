@@ -1,0 +1,1 @@
+"""Donation email example package."""
